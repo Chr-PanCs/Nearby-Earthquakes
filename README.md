@@ -1,7 +1,7 @@
 EarthquakesNearMe_ExpoGo
 
 A MSc assignment in React Native with Expo GO for Nearby Earthquakes
-
+- - - 
 This is a prototype application made using Expo GO in React Native.
 - Primary function of this app is to connect to USGS Earthquake Hazards Program https://earthquake.usgs.gov/fdsnws/event/1/
 - search for earthquakes in a radius of 300km around the user
@@ -10,6 +10,7 @@ This is a prototype application made using Expo GO in React Native.
 Libraries used:
 - `{ Accelerometer } from 'expo-sensors'`
 - `Location from 'expo-location';`
+
 
 ## Setup
 
@@ -27,4 +28,3 @@ npx expo install expo-sensors
 ```bash
 npx expo start
 ```
-
